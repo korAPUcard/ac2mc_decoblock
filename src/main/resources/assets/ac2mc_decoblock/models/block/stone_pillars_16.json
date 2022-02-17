@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ac2mc_decoblock:blocks/stone_pillar_16_surface",
+    "up": "ac2mc_decoblock:blocks/stone_pillar_16_surface",
+    "north": "ac2mc_decoblock:blocks/stone_pillar_16_surface",
+    "east": "ac2mc_decoblock:blocks/stone_pillar_16_surface",
+    "south": "ac2mc_decoblock:blocks/stone_pillar_16_surface",
+    "west": "ac2mc_decoblock:blocks/stone_pillar_16_surface",
+    "particle": "ac2mc_decoblock:blocks/stone_pillar_16_surface"
+  }
+}

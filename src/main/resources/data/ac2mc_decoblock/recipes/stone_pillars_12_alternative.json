@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "ac2mc_decoblock:white_sand"
+    },
+    "1": {
+      "item": "ac2mc_decoblock:stone_pillars_14"
+    }
+  },
+  "result": {
+    "item": "ac2mc_decoblock:stone_pillars_12",
+    "count": 1
+  }
+}

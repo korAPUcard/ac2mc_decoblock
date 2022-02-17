@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "ac2mc_decoblock:stone_pillars_14"
+  },
+  "result": {
+    "item": "ac2mc_decoblock:smooth_white_sandstone"
+  }
+}

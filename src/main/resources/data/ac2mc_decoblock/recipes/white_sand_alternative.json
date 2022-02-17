@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:bone_meal"
+    },
+    "3": {
+      "item": "minecraft:bone_meal"
+    },
+    "4": {
+      "item": "minecraft:sand"
+    },
+    "5": {
+      "item": "minecraft:bone_meal"
+    },
+    "7": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "ac2mc_decoblock:white_sand",
+    "count": 1
+  }
+}

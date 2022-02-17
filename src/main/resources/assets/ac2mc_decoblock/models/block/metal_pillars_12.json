@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ac2mc_decoblock:blocks/metal_pillar_12_bottom",
+    "up": "ac2mc_decoblock:blocks/metal_pillar_12_top",
+    "north": "ac2mc_decoblock:blocks/metal_pillar_12_side",
+    "east": "ac2mc_decoblock:blocks/metal_pillar_12_side",
+    "south": "ac2mc_decoblock:blocks/metal_pillar_12_side",
+    "west": "ac2mc_decoblock:blocks/metal_pillar_12_side",
+    "particle": "ac2mc_decoblock:blocks/metal_pillar_12_bottom"
+  }
+}

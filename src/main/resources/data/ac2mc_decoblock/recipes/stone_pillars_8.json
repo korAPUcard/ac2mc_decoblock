@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "ac2mc_decoblock:stone_pillars_7"
+  },
+  "result": "ac2mc_decoblock:stone_pillars_8"
+}

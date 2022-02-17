@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ac2mc_decoblock:blocks/white_sandstone_top",
+    "up": "ac2mc_decoblock:blocks/white_sandstone_top",
+    "north": "ac2mc_decoblock:blocks/cut_white_sandstone",
+    "east": "ac2mc_decoblock:blocks/cut_white_sandstone",
+    "south": "ac2mc_decoblock:blocks/cut_white_sandstone",
+    "west": "ac2mc_decoblock:blocks/cut_white_sandstone",
+    "particle": "ac2mc_decoblock:blocks/white_sandstone_top"
+  }
+}

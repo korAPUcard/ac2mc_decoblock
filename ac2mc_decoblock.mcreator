@@ -1,0 +1,607 @@
+{
+  "mod_elements": [
+    {
+      "name": "AdventureCraftDecorativeBlocks",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adventure_craft_decorative_blocks"
+    },
+    {
+      "name": "MetalPillars1",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_1"
+    },
+    {
+      "name": "MetalPillars2",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_2"
+    },
+    {
+      "name": "MetalPillars3",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_3"
+    },
+    {
+      "name": "MetalPillars4",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_4"
+    },
+    {
+      "name": "MetalPillars5",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_5"
+    },
+    {
+      "name": "MetalPillars6",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_6"
+    },
+    {
+      "name": "MetalPillars7",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_7"
+    },
+    {
+      "name": "MetalPillars8",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_8"
+    },
+    {
+      "name": "MetalPillars9",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_9"
+    },
+    {
+      "name": "MetalPillars10",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_10"
+    },
+    {
+      "name": "MetalPillars11",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_11"
+    },
+    {
+      "name": "MetalPillars12",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_12"
+    },
+    {
+      "name": "MetalPillars13",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_13"
+    },
+    {
+      "name": "MetalPillars14",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_14"
+    },
+    {
+      "name": "MetalPillars15",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_15"
+    },
+    {
+      "name": "MetalPillars16",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pillars_16"
+    },
+    {
+      "name": "StonePillars1",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_1"
+    },
+    {
+      "name": "StonePillars2",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_2"
+    },
+    {
+      "name": "StonePillars3",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_3"
+    },
+    {
+      "name": "StonePillars4",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_4"
+    },
+    {
+      "name": "StonePillars5",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_5"
+    },
+    {
+      "name": "StonePillars6",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_6"
+    },
+    {
+      "name": "StonePillars7",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_7"
+    },
+    {
+      "name": "StonePillars8",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_8"
+    },
+    {
+      "name": "StonePillarsRecipe1",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_1"
+    },
+    {
+      "name": "StonePillarsRecipe2",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_2"
+    },
+    {
+      "name": "StonePillarsRecipe3",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_3"
+    },
+    {
+      "name": "StonePillarsRecipe4",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_4"
+    },
+    {
+      "name": "StonePillarsRecipe5",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_5"
+    },
+    {
+      "name": "StonePillarsRecipe6",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_6"
+    },
+    {
+      "name": "StonePillarsRecipe7",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_7"
+    },
+    {
+      "name": "StonePillarsRecipe8",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_8"
+    },
+    {
+      "name": "WhiteSand",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_sand"
+    },
+    {
+      "name": "WhiteGlassAlternativeRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_glass_alternative_recipe"
+    },
+    {
+      "name": "CutWhiteSandstone",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_white_sandstone"
+    },
+    {
+      "name": "StonePillars9",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_9"
+    },
+    {
+      "name": "StonePillars10",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_10"
+    },
+    {
+      "name": "StonePillars11",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_11"
+    },
+    {
+      "name": "StonePillars12",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_12"
+    },
+    {
+      "name": "StonePillars13",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_13"
+    },
+    {
+      "name": "StonePillars14",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_14"
+    },
+    {
+      "name": "StonePillars15",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_15"
+    },
+    {
+      "name": "StonePillars16",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_16"
+    },
+    {
+      "name": "SmoothWhiteSandstone",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_white_sandstone"
+    },
+    {
+      "name": "StonePillarsRecipe9",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_9"
+    },
+    {
+      "name": "StonePillarsRecipe10",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_10"
+    },
+    {
+      "name": "StonePillarsRecipe11",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_11"
+    },
+    {
+      "name": "StonePillarsRecipe12",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_12"
+    },
+    {
+      "name": "StonePillarsRecipe13",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_13"
+    },
+    {
+      "name": "StonePillarsRecipe14",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_14"
+    },
+    {
+      "name": "StonePillarsRecipe15",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_15"
+    },
+    {
+      "name": "StonePillarsRecipe16",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_recipe_16"
+    },
+    {
+      "name": "SandstoneRestoreRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandstone_restore_recipe"
+    },
+    {
+      "name": "SmoothSandstoneRestoreRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_sandstone_restore_recipe"
+    },
+    {
+      "name": "StonePillars4AlternativeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_4_alternative_recipe"
+    },
+    {
+      "name": "StonePillars12AlternativeRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pillars_12_alternative_recipe"
+    },
+    {
+      "name": "SmoothWhiteSandstoneRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_white_sandstone_recipe"
+    },
+    {
+      "name": "CutWhiteSandstoneRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_white_sandstone_recipe"
+    },
+    {
+      "name": "CutWhiteSandstoneAlternativeRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_white_sandstone_alternative_recipe"
+    },
+    {
+      "name": "WhiteSandAlternativeRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_sand_alternative_recipe"
+    },
+    {
+      "name": "WhiteBeach",
+      "type": "biome",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_beach"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "ko_kr": {
+      "block.ac2mc_decoblock.metal_pillars_12": "Metal Hull Block",
+      "block.ac2mc_decoblock.metal_pillars_11": "Metal Grate Block",
+      "block.ac2mc_decoblock.metal_pillars_10": "Oak Wooden Packaged Crystal Block",
+      "biome.ac2mc_decoblock.white_beach": "White Beach",
+      "block.ac2mc_decoblock.stone_pillars_9": "Cobble White Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_8": "Sandstone Bricks",
+      "block.ac2mc_decoblock.metal_pillars_16": "Light Metal Striped Block",
+      "block.ac2mc_decoblock.metal_pillars_15": "Dark Metal Striped Block",
+      "block.ac2mc_decoblock.metal_pillars_14": "Metal Gear Block(Decorative)",
+      "block.ac2mc_decoblock.metal_pillars_13": "Metal Plate Block",
+      "block.ac2mc_decoblock.white_sand": "ÇÏ¾á ¸ð·¡",
+      "block.ac2mc_decoblock.metal_pillars_7": "Spruce Wooden Packaged Metal Block",
+      "block.ac2mc_decoblock.metal_pillars_6": "Metal Bricks",
+      "block.ac2mc_decoblock.metal_pillars_9": "Spruce Wooden Packaged Crystal Block",
+      "block.ac2mc_decoblock.metal_pillars_8": "Oak Wooden Packaged Metal Block",
+      "block.ac2mc_decoblock.stone_pillars_10": "Chiseled Smooth White Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_15": "White Sandstone Bricks Top",
+      "block.ac2mc_decoblock.stone_pillars_16": "White Sandstone Bricks",
+      "block.ac2mc_decoblock.metal_pillars_1": "Golden Pillar",
+      "block.ac2mc_decoblock.cut_white_sandstone": "±ðÀÎ ÇÏ¾á »ç¾Ï",
+      "block.ac2mc_decoblock.metal_pillars_3": "Spruce Wooden Packaged Gold Block",
+      "block.ac2mc_decoblock.stone_pillars_11": "Chiseled White Sandstone Pillar",
+      "block.ac2mc_decoblock.metal_pillars_2": "Golden Bricks",
+      "block.ac2mc_decoblock.stone_pillars_12": "Weathered White Sandstone",
+      "block.ac2mc_decoblock.metal_pillars_5": "Metal Pillar",
+      "block.ac2mc_decoblock.stone_pillars_13": "White Sandstone Pillar",
+      "block.ac2mc_decoblock.metal_pillars_4": "Oak Wooden Packaged Gold Block",
+      "block.ac2mc_decoblock.stone_pillars_14": "ÇÏ¾á »ç¾Ï",
+      "block.ac2mc_decoblock.stone_pillars_1": "Cobble Sandstone",
+      "block.ac2mc_decoblock.smooth_white_sandstone": "¸Å²ô·¯¿î ÇÏ¾á »ç¾Ï",
+      "block.ac2mc_decoblock.stone_pillars_3": "Chiseled Sandstone Pillar",
+      "block.ac2mc_decoblock.stone_pillars_2": "Chiseled Smooth Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_5": "Sandstone Pillar",
+      "block.ac2mc_decoblock.stone_pillars_4": "Weathered Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_7": "Sandstone Bricks Top",
+      "block.ac2mc_decoblock.stone_pillars_6": "Cut Cobble Sandstone",
+      "itemGroup.tabadventure_craft_decorative_blocks": "AdventureCraft: Àå½Ä¿ë ºí·Ï"
+    },
+    "en_us": {
+      "block.ac2mc_decoblock.metal_pillars_12": "Metal Hull Block",
+      "block.ac2mc_decoblock.metal_pillars_11": "Metal Grate Block",
+      "block.ac2mc_decoblock.metal_pillars_10": "Oak Wooden Packaged Crystal Block",
+      "biome.ac2mc_decoblock.white_beach": "White Beach",
+      "block.ac2mc_decoblock.stone_pillars_9": "Cobble White Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_8": "Sandstone Bricks",
+      "block.ac2mc_decoblock.metal_pillars_16": "Light Metal Striped Block",
+      "block.ac2mc_decoblock.metal_pillars_15": "Dark Metal Striped Block",
+      "block.ac2mc_decoblock.metal_pillars_14": "Metal Gear Block(Decorative)",
+      "block.ac2mc_decoblock.metal_pillars_13": "Metal Plate Block",
+      "block.ac2mc_decoblock.white_sand": "White Sand",
+      "block.ac2mc_decoblock.metal_pillars_7": "Spruce Wooden Packaged Metal Block",
+      "block.ac2mc_decoblock.metal_pillars_6": "Metal Bricks",
+      "block.ac2mc_decoblock.metal_pillars_9": "Spruce Wooden Packaged Crystal Block",
+      "block.ac2mc_decoblock.metal_pillars_8": "Oak Wooden Packaged Metal Block",
+      "block.ac2mc_decoblock.stone_pillars_10": "Chiseled Smooth White Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_15": "White Sandstone Bricks Top",
+      "block.ac2mc_decoblock.stone_pillars_16": "White Sandstone Bricks",
+      "block.ac2mc_decoblock.metal_pillars_1": "Golden Pillar",
+      "block.ac2mc_decoblock.cut_white_sandstone": "Cut White Sandstone",
+      "block.ac2mc_decoblock.metal_pillars_3": "Spruce Wooden Packaged Gold Block",
+      "block.ac2mc_decoblock.stone_pillars_11": "Chiseled White Sandstone Pillar",
+      "block.ac2mc_decoblock.metal_pillars_2": "Golden Bricks",
+      "block.ac2mc_decoblock.stone_pillars_12": "Weathered White Sandstone",
+      "block.ac2mc_decoblock.metal_pillars_5": "Metal Pillar",
+      "block.ac2mc_decoblock.stone_pillars_13": "White Sandstone Pillar",
+      "block.ac2mc_decoblock.metal_pillars_4": "Oak Wooden Packaged Gold Block",
+      "block.ac2mc_decoblock.stone_pillars_14": "White Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_1": "Cobble Sandstone",
+      "block.ac2mc_decoblock.smooth_white_sandstone": "Smooth White Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_3": "Chiseled Sandstone Pillar",
+      "block.ac2mc_decoblock.stone_pillars_2": "Chiseled Smooth Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_5": "Sandstone Pillar",
+      "block.ac2mc_decoblock.stone_pillars_4": "Weathered Sandstone",
+      "block.ac2mc_decoblock.stone_pillars_7": "Sandstone Bricks Top",
+      "block.ac2mc_decoblock.stone_pillars_6": "Cut Cobble Sandstone",
+      "itemGroup.tabadventure_craft_decorative_blocks": "AdventureCraft: Decorative Blocks"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ac2mc_decoblock",
+    "modName": "AC to MC Resource Import Mod: Decorative Blocks",
+    "version": "1.0.0",
+    "author": "KOR_APUcard, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Creative Commons Attribution-NonCommercial 4.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "just_enough_items"
+    ],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.apucsw.ac2mc_decoblock",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

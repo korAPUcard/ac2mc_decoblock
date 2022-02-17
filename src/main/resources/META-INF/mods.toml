@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Creative Commons Attribution-NonCommercial 4.0"
+
+[[mods]]
+modId="ac2mc_decoblock"
+version="1.0.0"
+displayName="AC to MC Resource Import Mod: Decorative Blocks"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="KOR_APUcard, MCreator"
+
+[[dependencies.ac2mc_decoblock]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.ac2mc_decoblock]]
+    modId="just_enough_items"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
